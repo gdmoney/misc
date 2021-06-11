@@ -1,5 +1,6 @@
 ### Apps
 - Atom
+- AWS CLI
 - Docker
 - GH CLI
 - git
