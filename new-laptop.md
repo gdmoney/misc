@@ -1,6 +1,7 @@
 ### Apps
 - Atom
 - AWS CLI
+- Brave browser
 - Docker
 - GH CLI
 - git
