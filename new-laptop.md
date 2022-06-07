@@ -5,7 +5,6 @@
 - Docker
 - GH CLI
 - git
-- Kubernetes
 - Password Safe
 - SecureCRT
 - Sublime Text
